@@ -7,8 +7,8 @@
 🚲 I'm a cyclist, cannondale supersix evo
 
 ## Connect with me:
-<code>[<img align="left" alt="Devishore" width="28px" src="devishore.png" />](https://www.devishore.com)
-[<img align="left" alt="https://www.devishore.com" width="28px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/chrome.svg" />](https://www.devishore.com)</code>
+[<img align="left" alt="Devishore" width="28px" src="devishore.png" />](https://www.devishore.com)
+[<img align="left" alt="https://www.devishore.com" width="28px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/chrome.svg" />](https://www.devishore.com)
 [<img align="left" alt="https://www.devishore.com | Gmail" width="28px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />](https://www.devishore.com)
 [<img align="left" alt="LinkedIn" width="28px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />](https://www.linkedin.com/in/michael-li-9473b5113/)
 
