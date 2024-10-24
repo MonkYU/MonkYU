@@ -1,5 +1,5 @@
 <a href="https://github.com/MonkYU">
-  <img align="center" src="intro.svg" />
+  <img align="center" src="intro.svg" style="width:100%;"/>
 </a>
 
 </br>
