@@ -1,5 +1,5 @@
 ## Hi there, I'm Michael Li
-👨‍💻 I'm the Chief and Founder of [**Devishore**](https://www.devishore.com)(IT Services Agency)</br>
+👨‍💻 I'm the Founder of [**Devishore**](https://www.devishore.com)(IT Services Agency)</br>
 🏠 I'm currently living at BeiJing, China 🇨🇳.</br>
 👨‍💼 I’m currently working on React Native、iOS、Android、Next.js、Strapi (full stack developer).</br>
 🔭 I'm currently working as a freelancer(mobile development) at [**Upwork**](https://www.upwork.com/freelancers/~0102c9c121afa5239d?mp_source=share) & [**Fiverr**](https://www.fiverr.com/allenroki).</br>
@@ -36,3 +36,14 @@
 <code>[<img height="35" title="Amazon" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/amazon.svg">](https://www.devishore.com)</code> 
 <code>[<img height="35" title="Next.js" src="./nextjs.png">](https://www.devishore.com)</code> 
 <code>[<img height="35" title="Figma" src="./figma.svg">](https://www.devishore.com)</code> 
+
+</br>
+<a href="https://github.com/MonkYU">
+  <img align="center" src="languages.svg" />
+</a>
+
+<hr/>
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=MonkYU&style=plastic&label=Views"><img>
+<img src="https://badges.pufler.dev/visits/MonkYU/MonkYU?color=black&logo=github" />
+</p>
